@@ -48,3 +48,8 @@ An embedded systems project built around an **ESP32** microcontroller, programme
     <figcaption>App and hardware setup 2</figcaption>
   </figure>
 </div>
+
+
+## 👥 Authors & Acknowledgments
+
+* **Android App Developer & Hardware Circuit Co-Designer [@YMANSY1](https://github.com/YMANSY1):** Built the entire Android UI/UX, Bluetooth logic, and speech recognition module, alongside collaborating on circuit design.
